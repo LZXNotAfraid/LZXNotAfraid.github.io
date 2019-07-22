@@ -56,7 +56,7 @@ label {
 
 a.navbar-brand {
 	font-size: 3em;
-	color: #ffdc39!important;
+	color: #fff!important;
 }
 .navbar-expand-lg .navbar-nav {
     margin: 0 6em;
@@ -159,7 +159,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 /*-- //header --*/
 
 .banner {
-	background: url(../images/bg1.jpg)no-repeat 0px 0px;
+	background: url(../images/bg2.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -169,7 +169,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 	min-height: 800px;
 }
 .banner1 {
-	background: url(../images/bg1.jpg)no-repeat 0px 0px;
+	background: url(../images/bg2.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -556,7 +556,7 @@ h5.main-w3l-title {
 /*--// main --*/
 /*-- //services--*/
 .services{
-	background: url(../images/bg.jpg)no-repeat 0px 0px;
+	background: url(../images/bg3.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1552,7 +1552,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/arr.png) no-repeat 0px 0px;
+	background: url(../images/arr32.png) no-repeat 0px 0px;
 }
 
 #toTopHover {
